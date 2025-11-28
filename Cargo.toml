@@ -35,7 +35,6 @@ path = "src/lib.rs"
 [workspace]
 members = [
 	"crates/auth",
-	"crates/cli",
 	"crates/config",
 	"crates/core",
 	"crates/mods",
